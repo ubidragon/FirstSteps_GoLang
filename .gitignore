@@ -1,0 +1,10 @@
+bin/guru.exe
+bin/dlv.exe
+bin/go-outline.exe
+bin/go-symbols.exe
+bin/gocode.exe
+bin/godef.exe
+bin/golint.exe
+bin/gopkgs.exe
+bin/gorename.exe
+bin/goreturns.exe
